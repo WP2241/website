@@ -1,0 +1,7 @@
+---
+title: "About me"
+---
+
+### My Resume
+
+<img src="images/resume.png" style="width:75%">

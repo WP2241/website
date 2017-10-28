@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1509154581644.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "4491C2FF",
+    "lastKnownWriteTime" : 1509155630,
+    "last_content_update" : 1509155630667,
+    "path" : "~/Desktop/Graduate School/Fall 17-18/Data science I/HW/website/about.Rmd",
+    "project_path" : "about.Rmd",
+    "properties" : {
+        "cursorPosition" : "6,47",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

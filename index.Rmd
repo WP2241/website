@@ -1,0 +1,13 @@
+---
+title: "Weixin's Website"
+---
+
+### Welcome!
+
+Here's my [GitHub](https://github.com/WP2241)
+
+You can contact me by my email : wp2241@cumc.columbia.edu
+
+You can also know more about me via [LinkedIn](https://www.linkedin.com/in/weixin-peng/)
+
+<img src="images/pic.jpg" style="width:75%">
